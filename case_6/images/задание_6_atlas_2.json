@@ -1,0 +1,51 @@
+﻿{"frames": {
+
+"Новыйузор5":
+{
+	"frame": {"x":0,"y":628,"w":317,"h":327},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":317,"h":327},
+	"sourceSize": {"w":317,"h":327}
+},
+"Растровоеизображение18":
+{
+	"frame": {"x":0,"y":0,"w":626,"h":626},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":626,"h":626},
+	"sourceSize": {"w":626,"h":626}
+},
+"Слой2":
+{
+	"frame": {"x":319,"y":804,"w":100,"h":93},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":100,"h":93},
+	"sourceSize": {"w":100,"h":93}
+},
+"Слой2_1":
+{
+	"frame": {"x":319,"y":628,"w":114,"h":174},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":114,"h":174},
+	"sourceSize": {"w":114,"h":174}
+},
+"Слой2_2":
+{
+	"frame": {"x":421,"y":804,"w":34,"h":129},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":34,"h":129},
+	"sourceSize": {"w":34,"h":129}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "23.0.2.103",
+	"image": "задание_6_atlas_2.png",
+	"format": "undefined",
+	"size": {"w":1024,"h":1024},
+	"scale": "1"
+}
+}
